@@ -19,7 +19,8 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jacobappia/Analyses-of-New-Web-Page-Impact-on-Conversion-Rate-Ecommerce)
 
-<div style="text-align: justify">In this project we will run an A/B testing analysis by leveraging the Chi-Square test for independence and assess the impact of a new ecommerce web page on the users conversion rate compared to an existing web page. We cleaned the data and defined the required hypothesis for the test. our analysis showed that it will not be a good idea for the company to change their old web page for the new one at the moment ([more...](projects/detect-food-trends-facebook.html)).</div>
+<div style="text-align: justify">In this project we will run an A/B testing analysis by leveraging the Chi-Square test for independence and assess the impact of a new ecommerce web page on the users conversion rate compared to an existing web page. We cleaned the data and defined the required hypothesis for the test. our analysis showed that it will not be a good idea for the company to change their old web page for the new one at the moment.</div>
+[more...](projects/detect-food-trends-facebook.html)
 
 <center><img src="images/BERT-classification.png"/></center>
 
