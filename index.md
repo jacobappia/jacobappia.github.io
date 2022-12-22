@@ -5,23 +5,23 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/AB Testing New Web Page.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jacobappia/Analyses-of-New-Web-Page-Impact-on-Conversion-Rate-Ecommerce)
 
-<div style="text-align: justify">In this project we will run an A/B testing analysis by leveraging the Chi-Square test for independence and assess the impact of a new ecommerce web page on the users conversion rate compared to an existing web page. We cleaned the data and defined the required hypothesis for the test. our analysis showed that it will not be a good idea for the company to change their old web page for the new one at the moment.</div>
-[more...](projects/AB Testing New Web Page.html)
-
 <br>
 <center><img src="images/ab_testing.png"/></center>
 <br>
+
+<div style="text-align: justify">In this project we will run an A/B testing analysis by leveraging the Chi-Square test for independence and assess the impact of a new ecommerce web page on the users conversion rate compared to an existing web page. We cleaned the data and defined the required hypothesis for the test. our analysis showed that it will not be a good idea for the company to change their old web page for the new one at the moment.</div>
+[more...](projects/AB Testing New Web Page.html)
+
 ---
 ### Customers Cohort Retention Analysis
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Cohort Retention Analysis.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jacobappia/Cohort-Retention-Analysis)
-
-<div style="text-align: justify">In this project, we conduct a time-based cohort and retention analysis in python to examine how many customers are staying and how many are leaving in a given cohort over time. We will group customers into cohorts based on the time of acquisition and compute the cohort index which is the number of months since the customer was acquired. We will then compute the retention rates for each cohort over time.</div>
-[more...](projects/Cohort Retention Analysis.html)
 <br>
 <center><img src="images/cohort_analysis_result.png"></center>
 <br>
+<div style="text-align: justify">In this project, we conduct a time-based cohort and retention analysis in python to examine how many customers are staying and how many are leaving in a given cohort over time. We will group customers into cohorts based on the time of acquisition and compute the cohort index which is the number of months since the customer was acquired. We will then compute the retention rates for each cohort over time.</div>
+[more...](projects/Cohort Retention Analysis.html)
 
 ---
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
