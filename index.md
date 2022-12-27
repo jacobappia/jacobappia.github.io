@@ -4,6 +4,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jacobappia/Customers-Segmentation-for-Marketing)
 
+<center><img src="images/segments.png"/></center>
 <div style="text-align: justify">In this project, we create a customer segmentation for marketing using a RFM model in python. To perform the segmentation, we calculate and score each customer based on how recent they made their last purchase, how often they make a purchase and how much they have spent in purchase since they first order. Using these scores we are able to identify the most valuable customers and the customers at risk of churning.</div>
 [more...](https://github.com/jacobappia/Customers-Segmentation-for-Marketing/blob/main/Customers%20Segmentation%20Analysis.ipynb)
 
