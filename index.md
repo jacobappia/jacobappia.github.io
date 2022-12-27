@@ -1,6 +1,6 @@
 # Portfolio
 ---
-### Customers Segmentation for Marketing | RFM Modelling
+### Customers Segmentation for Marketing | RFM Modeling
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jacobappia/Customers-Segmentation-for-Marketing)
 
