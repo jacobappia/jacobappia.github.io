@@ -48,9 +48,6 @@
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
 <div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
-<br>
-<center><img src="images/breast-cancer.png"/></center>
-<br>
 
 ---
 <center>© 2020 Jacob Appia. Powered by Jekyll and the Minimal Theme.</center>
