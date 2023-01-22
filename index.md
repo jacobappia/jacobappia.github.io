@@ -9,7 +9,7 @@
 [more...](https://github.com/jacobappia/Customers-Segmentation-for-Marketing/blob/main/Customers%20Segmentation%20Analysis.ipynb)
 
 ---
-### Impact of a New E-commerce Web Page on Conversion Rate: A/B Testing
+### Marketing Campaign Performance Assessment: A/B Testing
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/AB Testing New Web Page.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jacobappia/Analyses-of-New-Web-Page-Impact-on-Conversion-Rate-Ecommerce)
@@ -29,38 +29,20 @@
 [more...](projects/Cohort Retention Analysis.html)
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+### Detect Spam Messages: NLP-BERT and Naive Bayes Classifier
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-<br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
 
 ---
-## Data Science
-
 ### Credit Risk Prediction Web App
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)]()
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]()
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
-<br>
-<center><img src="images/credit-risk-webapp.png"/></center>
-<br>
-
----
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
-
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
 
 ---
 ### Predict Breast Cancer with RF, PCA and SVM using Python
